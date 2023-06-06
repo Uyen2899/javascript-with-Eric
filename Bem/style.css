@@ -1,0 +1,10 @@
+
+body > div {
+    margin: auto;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    outline: none;
+}
